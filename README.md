@@ -20,6 +20,7 @@ python 3.8, conda managing and jupyter notebooks.
 - [Lesson 13: PCA](13-pca/eigenfaces.ipynb)
 - [Lesson 14: Validation](14-validation/validate_poi.ipynb)
 - [Lesson 15: Evaluation Metrics](15-evaluation/evaluate_poi_identifier.ipynb)
+- [Lesson 17: Final Project](final_project/poi_id.ipynb)
 
 ## Important Notes
 
