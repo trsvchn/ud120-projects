@@ -135,8 +135,8 @@ dmypy.json
 # Original ignore
 enron_mail_20150507.tar.gz
 maildir/
-lesson-11-text-learning/your_word_data.pkl
-lesson-11-text-learning/your_email_authors.pkl
+11-text-learning/your_word_data.pkl
+11-text-learning/your_email_authors.pkl
 my_classifier.pkl
 my_dataset.pkl
 my_feature_list.pkl

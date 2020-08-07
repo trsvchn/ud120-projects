@@ -6,20 +6,20 @@ python 3.8, conda managing and jupyter notebooks.
 
 ## Mini-Projects
 
-- [Lesson 2: Naive Bayes](./lesson-2-naive-bayes/nb_author_id.ipynb)
-- [Lesson 3: SVM](./lesson-3-svm/svm_author_id.ipynb)
-- [Lesson 4: Decision Trees](./lesson-4-decision-tree/dt_author_id.ipynb)
-- [Lesson 5: Choose Your own Algorithm](./lesson-5-choose-your-own/your_algorithm.ipynb)
-- [Lesson 6: Datasets and Questions](./lesson-6-datasets-questions/explore_enron_data.ipynb)
-- [Lesson 7: Regressions](./lesson-7-regression/finance_regression.ipynb)
-- [Lesson 8: Outliers](./lesson-8-outliers/outlier_removal_regression.ipynb)
-- [Lesson 9: Clustering](lesson-9-10-k-means/k_means_cluster.ipynb)
-- [Lesson 10: Feature Scaling](lesson-9-10-k-means/k_means_cluster.ipynb)
-- [Lesson 11: Text Learning](lesson-11-text-learning/vectorize_text.ipynb)
-- [Lesson 12: Feature Selection](lesson-12-feature-selection/find_signature.ipynb)
-- [Lesson 13: PCA](lesson-13-pca/eigenfaces.ipynb)
-- [Lesson 14: Validation](lesson-14-validation/validate_poi.ipynb)
-- [Lesson 15: Evaluation Metrics](lesson-15-evaluation/evaluate_poi_identifier.ipynb)
+- [Lesson 2: Naive Bayes](./02-naive-bayes/nb_author_id.ipynb)
+- [Lesson 3: SVM](./03-svm/svm_author_id.ipynb)
+- [Lesson 4: Decision Trees](./04-decision-tree/dt_author_id.ipynb)
+- [Lesson 5: Choose Your own Algorithm](./05-choose-your-own/your_algorithm.ipynb)
+- [Lesson 6: Datasets and Questions](./06-datasets-questions/explore_enron_data.ipynb)
+- [Lesson 7: Regressions](./07-regression/finance_regression.ipynb)
+- [Lesson 8: Outliers](./08-outliers/outlier_removal_regression.ipynb)
+- [Lesson 9: Clustering](09-10-k-means/k_means_cluster.ipynb)
+- [Lesson 10: Feature Scaling](09-10-k-means/k_means_cluster.ipynb)
+- [Lesson 11: Text Learning](11-text-learning/vectorize_text.ipynb)
+- [Lesson 12: Feature Selection](12-feature-selection/find_signature.ipynb)
+- [Lesson 13: PCA](13-pca/eigenfaces.ipynb)
+- [Lesson 14: Validation](14-validation/validate_poi.ipynb)
+- [Lesson 15: Evaluation Metrics](15-evaluation/evaluate_poi_identifier.ipynb)
 
 ## Important Notes
 
