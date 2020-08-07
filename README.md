@@ -4,7 +4,6 @@ The aim of this repo is to improve original starter project code for students ta
 [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120) on Udacity with
 python 3.8, conda managing and jupyter notebooks.
 
-
 ## Mini-Projects
 
 - [Lesson 2: Naive Bayes](./lesson-2-naive-bayes/nb_author_id.ipynb)
@@ -17,6 +16,7 @@ python 3.8, conda managing and jupyter notebooks.
 - [Lesson 9: Clustering](lesson-9-10-k-means/k_means_cluster.ipynb)
 - [Lesson 10: Feature Scaling](lesson-9-10-k-means/k_means_cluster.ipynb)
 - [Lesson 11: Text Learning](lesson-11-text-learning/vectorize_text.ipynb)
+- [Lesson 12: Feature Selection](lesson-12-feature-selection/find_signature.ipynb)
 
 ## Important Notes
 
