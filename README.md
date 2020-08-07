@@ -19,6 +19,7 @@ python 3.8, conda managing and jupyter notebooks.
 - [Lesson 12: Feature Selection](lesson-12-feature-selection/find_signature.ipynb)
 - [Lesson 13: PCA](lesson-13-pca/eigenfaces.ipynb)
 - [Lesson 14: Validation](lesson-14-validation/validate_poi.ipynb)
+- [Lesson 15: Evaluation Metrics](lesson-15-evaluation/evaluate_poi_identifier.ipynb)
 
 ## Important Notes
 
