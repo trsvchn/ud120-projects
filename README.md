@@ -16,7 +16,7 @@ python 3.8, conda managing and jupyter notebooks.
 - [Lesson 8: Outliers](./lesson-8-outliers/outlier_removal_regression.ipynb)
 - [Lesson 9: Clustering](lesson-9-10-k-means/k_means_cluster.ipynb)
 - [Lesson 10: Feature Scaling](lesson-9-10-k-means/k_means_cluster.ipynb)
-
+- [Lesson 11: Text Learning](lesson-11-text-learning/vectorize_text.ipynb)
 
 ## Important Notes
 
