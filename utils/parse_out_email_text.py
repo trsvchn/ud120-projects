@@ -35,7 +35,7 @@ def parse_out_text(f):
 
 
 def main():
-    with open("../lesson-11-text-learning/test_email.txt", "r") as f:
+    with open("../11-text-learning/test_email.txt", "r") as f:
         text = parse_out_text(f)
     print(text)
 
