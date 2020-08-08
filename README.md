@@ -1,6 +1,6 @@
-# [WIP] ud120 Projects 2.0
+# Udacity ud120 Projects v2: python3 + jupyter + conda env
 
-The aim of this repo is to improve original starter project code for students taking
+The aim of this fork is to improve original starter project code for students taking
 [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120) on Udacity with
 python 3.8, conda managing and jupyter notebooks.
 
