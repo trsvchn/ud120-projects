@@ -57,7 +57,7 @@ data = feature_format(dictionary, features_list, remove_any_zeroes=True, sort_ke
 ### 1. Clone the repo
 
 ```bash
-$ git clone https://github.com/trsvchn/ud120-projects-v2.git
+$ git clone https://github.com/trsvchn/ud120-projects-py3-jupyter.git
 $ cd ud120-projects-v2
 ```
 
